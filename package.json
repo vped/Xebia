@@ -1,0 +1,19 @@
+{
+  "name": "xebia-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "* [NodeJS](http://nodejs.org/) (with [NPM](https://www.npmjs.org/)) * [Bower](http://bower.io)",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Ved Prakash",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vped/Xebia.git"
+  }
+}
